@@ -1,0 +1,19 @@
+<HTML>
+  <HEAD>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bitcount+Ink:wght@100..900&family=Bitcount+Prop+Double+Ink:wght@100..900&family=Iosevka+Charon:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Noto+Rashi+Hebrew:wght@100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Titan+One&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
+font-family: "Ubuntu", sans-serif;
+    <H2 TITLE="Mi segunda página HTML con encabezados"></TITLE>
+  </HEAD>
+
+  <BODY>
+    <h1>Título principal</h1>
+    <h2>Título secundario</h2>
+    <h3 ALIGN="LEFT">Título terciario alineado a la izquierda</h3>
+    <h4 ALIGN="RIGHT">Título cuarto nivel alineado a la derecha</h4>
+    <h5 ALIGN="CENTER">Título quinto nivel centrado</h5>
+    <h6>Título sexto nivel</h6>
+  </BODY>
+</HTML>
